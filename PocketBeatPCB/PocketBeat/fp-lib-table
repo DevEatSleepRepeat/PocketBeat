@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RP2040")(type "KiCad")(uri "/Users/samuel/Documents/GitHub/BeatPadMini/PocketBeatPCB/Librarys/SC0914/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "FLASH MEM")(type "KiCad")(uri "/Users/samuel/Documents/GitHub/BeatPadMini/PocketBeatPCB/Librarys/W25 FLASH/footprints.pretty")(options "")(descr ""))
+  (lib (name "REGU")(type "KiCad")(uri "/Users/samuel/Documents/GitHub/BeatPadMini/PocketBeatPCB/Librarys/AP2112k REG/footprints.pretty")(options "")(descr ""))
+)
